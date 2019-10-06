@@ -1,0 +1,1 @@
+/usr/bin/cc -g -std=gnu11  -rdynamic CMakeFiles/Technique1.dir/tech1.c.o  -o Technique1 

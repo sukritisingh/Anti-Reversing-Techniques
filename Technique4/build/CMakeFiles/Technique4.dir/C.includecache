@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sukriti/Documents/Anti Reversing Project/Technique4/Technique4.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+xor_strings.h
+/home/sukriti/Documents/Anti Reversing Project/Technique4/xor_strings.h
+
+/home/sukriti/Documents/Anti Reversing Project/Technique4/xor_strings.h
+

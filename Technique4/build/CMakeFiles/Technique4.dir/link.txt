@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -Wshadow -std=gnu11  -rdynamic CMakeFiles/Technique4.dir/Technique4.c.o  -o Technique4 

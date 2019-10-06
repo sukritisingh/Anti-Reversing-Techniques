@@ -1,0 +1,3 @@
+/home/sukriti/Documents/Anti Reversing Project/Technique3/build/CMakeFiles/rebuild_cache.dir
+/home/sukriti/Documents/Anti Reversing Project/Technique3/build/CMakeFiles/Technique3.dir
+/home/sukriti/Documents/Anti Reversing Project/Technique3/build/CMakeFiles/edit_cache.dir

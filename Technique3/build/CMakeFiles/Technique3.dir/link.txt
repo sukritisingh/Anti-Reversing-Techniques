@@ -1,0 +1,1 @@
+musl-gcc -Wall -Wextra -Wshadow -O3 -static -std=gnu11  -rdynamic CMakeFiles/Technique3.dir/Technique3.c.o CMakeFiles/Technique3.dir/rc4.c.o  -o Technique3 

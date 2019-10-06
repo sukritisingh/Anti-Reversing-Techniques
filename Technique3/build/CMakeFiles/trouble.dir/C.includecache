@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sukriti/Documents/Anti Reversing Project/Technique3/build/Technique3.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+
+/home/sukriti/Documents/Anti Reversing Project/Technique3/build/rc4.c
+rc4.h
+/home/sukriti/Documents/Anti Reversing Project/Technique3/build/rc4.h
+sys/types.h
+-
+
+/home/sukriti/Documents/Anti Reversing Project/Technique3/build/rc4.h
+stdint.h
+-
+

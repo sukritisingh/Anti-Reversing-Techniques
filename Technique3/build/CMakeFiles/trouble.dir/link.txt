@@ -1,0 +1,1 @@
+musl-gcc -Wall -Wextra -Wshadow -O3 -static -std=gnu11  -rdynamic CMakeFiles/trouble.dir/Technique3.c.o CMakeFiles/trouble.dir/rc4.c.o  -o trouble 

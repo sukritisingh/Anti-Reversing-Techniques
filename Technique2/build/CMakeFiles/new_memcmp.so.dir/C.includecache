@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sukriti/Documents/Anti Reversing Project/Technique2/new_memcmp.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+dlfcn.h
+-
+

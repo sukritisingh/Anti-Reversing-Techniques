@@ -1,0 +1,3 @@
+/home/sukriti/Documents/Anti Reversing Project/Technique2/build/CMakeFiles/rebuild_cache.dir
+/home/sukriti/Documents/Anti Reversing Project/Technique2/build/CMakeFiles/new_memcmp.so.dir
+/home/sukriti/Documents/Anti Reversing Project/Technique2/build/CMakeFiles/edit_cache.dir

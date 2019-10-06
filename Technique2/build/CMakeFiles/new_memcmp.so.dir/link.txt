@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -Wshadow -fPIC -shared -std=gnu11  -rdynamic CMakeFiles/new_memcmp.so.dir/new_memcmp.c.o  -o new_memcmp.so -ldl 
